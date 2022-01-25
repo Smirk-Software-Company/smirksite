@@ -169,5 +169,9 @@
     width: 90%;
     margin-top: 0px;
   }
+
+  .body-text-flex {
+    width: 100%;
+  }
 }
 
