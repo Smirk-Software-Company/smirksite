@@ -5,7 +5,7 @@
 
 .section {
   display: block;
-  width: 600px;
+  width: 560px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -102,13 +102,17 @@
 
 .image-3 {
   display: block;
-  width: 490px;
+  width: 480px;
   margin: -10px auto 18px;
   opacity: 0.96;
 }
 
 .body-text-flex {
   width: 48%;
+}
+
+.div-block {
+  padding-right: 8px;
 }
 
 @media screen and (max-width: 479px) {
