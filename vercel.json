@@ -1,0 +1,20 @@
+{
+    "redirects": [
+      {
+        "source": "/download",
+        "destination": "https://testflight.apple.com/join/iitrq4g1",
+        "permanent": true
+      },
+      {
+        "source": "/privacy",
+        "destination": "https://app.termly.io/policy-viewer/policy.html?policyUUID=57e01ac0-04ae-4a50-a18b-e713bea6726e",
+        "permanent": true
+      },
+      {
+        "source": "/terms",
+        "destination": "https://app.termly.io/policy-viewer/policy.html?policyUUID=2f19a99f-b84c-46d9-999f-136143440451",
+        "permanent": true
+      }
+    ]
+}
+  
